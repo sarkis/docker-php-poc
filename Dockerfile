@@ -1,1 +1,1 @@
-FROM tutum/apache-php
+FROM php:7.0-apache
